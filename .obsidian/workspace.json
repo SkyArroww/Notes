@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "c647cf32d58ded19",
+    "type": "split",
+    "children": [
+      {
+        "id": "b00f4f58548b1a45",
+        "type": "tabs",
+        "dimension": 76.99364855328157,
+        "children": [
+          {
+            "id": "a0efb675cf6100fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程入门/MIT---Missing Semester/10. 杂项.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "d81e0994943f3a83"
+          }
+        ]
+      },
+      {
+        "id": "98733164b2a9488c",
+        "type": "tabs",
+        "dimension": 23.00635144671842,
+        "children": [
+          {
+            "id": "6008dc6ba69e5856",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "编程入门/MIT---Missing Semester/10. 杂项.md"
+              }
+            },
+            "group": "d81e0994943f3a83"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf9447905013dfbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b273f01fed6f222f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27d727e419a30a8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31ea4be672c802a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "help",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f21c7f9fa37f4707",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "bb6032e03d26ee18",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d852ba7625bce3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6d1fd9e3a6b9016",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "编程入门/MIT---Missing Semester/10. 杂项.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16489b56765a50a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "编程入门/MIT---Missing Semester/10. 杂项.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1651dbb272288b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "845f8f08bfec2922",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "编程入门/MIT---Missing Semester/10. 杂项.md"
+              }
+            }
+          },
+          {
+            "id": "f77f401b040b6906",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a0efb675cf6100fb",
+  "lastOpenFiles": [
+    "编程入门/MIT---Missing Semester/9. 安全和密码学.md",
+    "编程入门/MIT---Missing Semester/8. 元编程.md",
+    "编程入门/MIT---Missing Semester/7. 调试及性能分析.md",
+    "Resources/寄.png",
+    "Resources",
+    "编程入门/MIT---Missing Semester/0. 课程概览.md",
+    "未命名.canvas",
+    "编程入门/MIT---Missing Semester/10. 杂项.md",
+    "编程入门/MIT---Missing Semester/5. 命令行环境.md",
+    "编程入门/MIT---Missing Semester/4. 数据整理.md",
+    "编程入门/MIT---Missing Semester/6. 版本控制(Git).md",
+    "编程入门/MIT---Missing Semester/Resources/Pro Git.pdf",
+    "编程入门/MIT---Missing Semester/Resources/progit.pdf",
+    "编程入门/MIT---Missing Semester/Resources",
+    "编程入门/MIT---Missing Semester/新建文件夹",
+    "编程入门/MIT---Missing Semester/3. 编辑器Vim.md",
+    "未命名.md",
+    "编程入门/MIT---Missing Semester/2. Shell 工具和脚本.md",
+    "编程入门/MIT---Missing Semester/1. Shell.md",
+    "2024-W12.md",
+    "Obsidian Help Document/中文帮助/如何使用/编辑多个笔记.md",
+    "Obsidian Help Document/中文帮助/如何使用/笔记重命名.md",
+    "Obsidian Help Document/中文帮助/插件设置/日记.md",
+    "Obsidian Help Document/中文帮助/插件设置/标签面板.md",
+    "Obsidian Help Document/中文帮助/插件设置/笔记漫游.md",
+    "Obsidian Help Document/英文帮助/Release notes/v0.7.3.md",
+    "Obsidian Help Document/英文帮助/Release notes/v0.7.1.md",
+    "Obsidian Help Document/英文帮助/Release notes/v0.7.2.md",
+    "Obsidian Help Document/英文帮助/Release notes/v0.7.0.md",
+    "Obsidian Help Document/英文帮助/Release notes/v0.6.7.md",
+    "Obsidian Help Document/英文帮助/Release notes/v0.6.5.md",
+    "Obsidian Help Document/英文帮助/Release notes/v0.6.6.md",
+    "Obsidian Help Document/英文帮助/Attachments/Pasted image.png",
+    "Obsidian Help Document/英文帮助/Attachments/Pasted image 9.png",
+    "Obsidian Help Document/英文帮助/Attachments/Pasted image 8.png",
+    "Obsidian Help Document/英文帮助/Attachments/Pasted image 7.png",
+    "Obsidian Help Document/英文帮助/Attachments/Pasted image 6.png",
+    "Obsidian Help Document/英文帮助/Attachments/Pasted image 5.png",
+    "Obsidian Help Document/英文帮助/Attachments/Pasted image 4.png",
+    "Obsidian Help Document/英文帮助/Attachments/Pasted image 3.png",
+    "Obsidian Help Document/英文帮助/Attachments/Pasted image 19.png",
+    "Obsidian Help Document/英文帮助/Attachments/Excerpt from Mother of All Demos (1968).ogg",
+    "Obsidian Help Document/英文帮助/Release notes",
+    "Obsidian Help Document/英文帮助/Plugins",
+    "Obsidian Help Document/英文帮助/How to",
+    "Obsidian Help Document/英文帮助/Attachments"
+  ]
+}
