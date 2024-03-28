@@ -2,6 +2,7 @@
 ## 1.1 MIT-Missing-Semester 
 * 10h 
 *  Shell 编程、命令行配置、Git、Vim、`tmux`、`ssh` 等等
+* [x] 24.3.24 - 24.3.27 
 ## 1.2 CS50: This is CS50x
 * 20h
 * C, Python, SQL, HTML, CSS, JavaScript

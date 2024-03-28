@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Help Document/英文帮助/Release notes/v0.5.1.md",
+                "file": "Plan for CS-DIY.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "b273f01fed6f222f",
         "type": "tabs",
-        "dimension": 73.72549019607844,
+        "dimension": 69.50980392156863,
         "children": [
           {
             "id": "27d727e419a30a8c",
@@ -56,7 +56,7 @@
       {
         "id": "e31c9e1d6b6c9202",
         "type": "tabs",
-        "dimension": 26.27450980392157,
+        "dimension": 30.490196078431378,
         "children": [
           {
             "id": "b1651dbb272288b6",
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Help Document/英文帮助/Release notes/v0.5.1.md",
+                "file": "Plan for CS-DIY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Help Document/英文帮助/Release notes/v0.5.1.md",
+                "file": "Plan for CS-DIY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,8 +113,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Help Document/英文帮助/Release notes/v0.5.1.md"
+                "file": "Plan for CS-DIY.md"
               }
             }
           }
@@ -165,32 +164,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "845f8f08bfec2922",
+  "active": "27d727e419a30a8c",
   "lastOpenFiles": [
-    "编程入门/MIT---Missing Semester/0. 课程概览.md",
+    "编程入门/CS50-Introduction to Computer Science",
+    "编程入门/MIT-Missing Semester/4. 数据整理.md",
+    "Obsidian Help Document/英文帮助/Release notes/v0.5.1.md",
+    "编程入门/MIT-Missing Semester/0. 课程概览.md",
     "Obsidian Help Document/中文帮助/插件设置/搜索.md",
-    "编程入门/MIT---Missing Semester/6. 版本控制(Git).md",
-    "编程入门/MIT---Missing Semester/7. 调试及性能分析.md",
-    "编程入门/MIT---Missing Semester/1. Shell.md",
+    "编程入门/MIT-Missing Semester/6. 版本控制(Git).md",
+    "编程入门/MIT-Missing Semester/7. 调试及性能分析.md",
+    "编程入门/MIT-Missing Semester/1. Shell.md",
     "Test/Test.md",
     "Test/Welcome.md",
     "Plan for CS-DIY.md",
     "未命名.md",
     "README.md",
-    "编程入门/MIT---Missing Semester/10. 杂项.md",
-    "编程入门/MIT---Missing Semester/9. 安全和密码学.md",
-    "编程入门/MIT---Missing Semester/8. 元编程.md",
+    "编程入门/MIT-Missing Semester/10. 杂项.md",
+    "编程入门/MIT-Missing Semester/9. 安全和密码学.md",
+    "编程入门/MIT-Missing Semester/8. 元编程.md",
     "Resources/寄.png",
     "Resources",
     "未命名.canvas",
-    "编程入门/MIT---Missing Semester/5. 命令行环境.md",
-    "编程入门/MIT---Missing Semester/4. 数据整理.md",
-    "编程入门/MIT---Missing Semester/Resources/Pro Git.pdf",
+    "编程入门/MIT-Missing Semester/5. 命令行环境.md",
+    "编程入门/MIT-Missing Semester/Resources/Pro Git.pdf",
     "编程入门/MIT---Missing Semester/Resources/progit.pdf",
-    "编程入门/MIT---Missing Semester/Resources",
+    "编程入门/MIT-Missing Semester/Resources",
     "编程入门/MIT---Missing Semester/新建文件夹",
-    "编程入门/MIT---Missing Semester/3. 编辑器Vim.md",
-    "编程入门/MIT---Missing Semester/2. Shell 工具和脚本.md",
+    "编程入门/MIT-Missing Semester/3. 编辑器Vim.md",
+    "编程入门/MIT-Missing Semester/2. Shell 工具和脚本.md",
     "2024-W12.md",
     "Obsidian Help Document/中文帮助/如何使用/编辑多个笔记.md",
     "Obsidian Help Document/中文帮助/如何使用/笔记重命名.md",
@@ -198,8 +199,6 @@
     "Obsidian Help Document/中文帮助/插件设置/标签面板.md",
     "Obsidian Help Document/中文帮助/插件设置/笔记漫游.md",
     "Obsidian Help Document/英文帮助/Release notes/v0.7.3.md",
-    "Obsidian Help Document/英文帮助/Release notes/v0.7.1.md",
-    "Obsidian Help Document/英文帮助/Release notes/v0.7.2.md",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image.png",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image 9.png",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image 8.png",

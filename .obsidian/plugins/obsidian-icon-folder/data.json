@@ -6,7 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiCode"
+      "RiCodeLine",
+      "FabReadme",
+      "FasList",
+      "BoBxTestTube",
+      "RiGitRepositoryLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -24,5 +28,12 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":"
   },
-  "编程入门": "TiCode"
+  "编程入门": "TiCode",
+  "Obsidian Help Document": "RaHelp",
+  "Resources": "RiGitRepositoryLine",
+  "Test": "BoBxTestTube",
+  "Plan for CS-DIY.md": "FasList",
+  "README.md": "FabReadme",
+  "编程入门/MIT-Missing Semester": "OcCommandPalette16",
+  "编程入门/CS50-Introduction to Computer Science": "RiCodeLine"
 }
