@@ -4,5 +4,9 @@
   "obsidian-git",
   "obsidian-tasks-plugin",
   "dataview",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-style-settings",
+  "cmdr",
+  "obsidian-hover-editor",
+  "obsidian-icon-folder"
 ]

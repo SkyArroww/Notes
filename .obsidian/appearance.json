@@ -1,5 +1,8 @@
 {
   "accentColor": "#27c5b0",
   "theme": "obsidian",
-  "cssTheme": "Obsidian Nord"
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
 }
