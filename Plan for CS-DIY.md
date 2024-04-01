@@ -6,7 +6,7 @@
 ## 1.2 CS50: This is CS50x
 * 20h
 * C, Python, SQL, HTML, CSS, JavaScript
-
+- [ ] 24.3.29
 ## 1.3 CS50P Introduction to Programming with Python
 * 35h
 *  Python 的基础与进阶语法，以及各种 “Pythonic” 的编程方法。此外对于 Python 特色的代码库、代码测试以及错误处理，该课程也会较为深入地探究

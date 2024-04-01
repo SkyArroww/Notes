@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan for CS-DIY.md",
+                "file": "编程入门/CS50-Introduction to Computer Science/3. Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
       {
         "id": "e31c9e1d6b6c9202",
         "type": "tabs",
-        "dimension": 30.490196078431378,
+        "dimension": 30.49019607843137,
         "children": [
           {
             "id": "b1651dbb272288b6",
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan for CS-DIY.md",
+                "file": "编程入门/CS50-Introduction to Computer Science/3. Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan for CS-DIY.md",
+                "file": "编程入门/CS50-Introduction to Computer Science/3. Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 200
   },
   "right": {
     "id": "bb6032e03d26ee18",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan for CS-DIY.md"
+                "file": "编程入门/CS50-Introduction to Computer Science/3. Algorithm.md"
               }
             }
           }
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +164,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27d727e419a30a8c",
+  "active": "8ee078278642600f",
   "lastOpenFiles": [
+    "编程入门/CS50-Introduction to Computer Science/2. Arrays.md",
+    "编程入门/CS50-Introduction to Computer Science/3. Algorithm.md",
+    "编程入门/CS50-Introduction to Computer Science/1. C.md",
+    "Plan for CS-DIY.md",
+    "编程入门/CS50-Introduction to Computer Science/0. Scratch.md",
     "编程入门/CS50-Introduction to Computer Science",
     "编程入门/MIT-Missing Semester/4. 数据整理.md",
     "Obsidian Help Document/英文帮助/Release notes/v0.5.1.md",
@@ -176,7 +181,6 @@
     "编程入门/MIT-Missing Semester/1. Shell.md",
     "Test/Test.md",
     "Test/Welcome.md",
-    "Plan for CS-DIY.md",
     "未命名.md",
     "README.md",
     "编程入门/MIT-Missing Semester/10. 杂项.md",
@@ -196,9 +200,6 @@
     "Obsidian Help Document/中文帮助/如何使用/编辑多个笔记.md",
     "Obsidian Help Document/中文帮助/如何使用/笔记重命名.md",
     "Obsidian Help Document/中文帮助/插件设置/日记.md",
-    "Obsidian Help Document/中文帮助/插件设置/标签面板.md",
-    "Obsidian Help Document/中文帮助/插件设置/笔记漫游.md",
-    "Obsidian Help Document/英文帮助/Release notes/v0.7.3.md",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image.png",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image 9.png",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image 8.png",
@@ -211,7 +212,6 @@
     "Obsidian Help Document/英文帮助/Attachments/Excerpt from Mother of All Demos (1968).ogg",
     "Obsidian Help Document/英文帮助/Release notes",
     "Obsidian Help Document/英文帮助/Plugins",
-    "Obsidian Help Document/英文帮助/How to",
-    "Obsidian Help Document/英文帮助/Attachments"
+    "Obsidian Help Document/英文帮助/How to"
   ]
 }
