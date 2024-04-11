@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ee078278642600f",
+            "id": "84752aac77d0fd35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程入门/CS50-Introduction to Computer Science/4. Memory.md",
+                "file": "编程入门/CS50-Introduction to Computer Science/7. SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程入门/CS50-Introduction to Computer Science/4. Memory.md",
+                "file": "编程入门/CS50-Introduction to Computer Science/7. SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程入门/CS50-Introduction to Computer Science/4. Memory.md",
+                "file": "编程入门/CS50-Introduction to Computer Science/7. SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程入门/CS50-Introduction to Computer Science/4. Memory.md"
+                "file": "编程入门/CS50-Introduction to Computer Science/7. SQL.md"
               }
             }
           }
@@ -164,12 +164,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ee078278642600f",
+  "active": "84752aac77d0fd35",
   "lastOpenFiles": [
+    "编程入门/CS50-Introduction to Computer Science/6.5 Artificial Intelligence.md",
+    "编程入门/CS50-Introduction to Computer Science/7. SQL.md",
+    "编程入门/CS50-Introduction to Computer Science/6. Python.md",
+    "编程入门/CS50-Introduction to Computer Science/5. Data Structures.md",
+    "编程入门/CS50-Introduction to Computer Science/4. Memory.md",
     "编程入门/CS50-Introduction to Computer Science/0. Scratch.md",
     "编程入门/CS50-Introduction to Computer Science/2. Arrays.md",
     "编程入门/CS50-Introduction to Computer Science/1. C.md",
-    "编程入门/CS50-Introduction to Computer Science/4. Memory.md",
     "编程入门/CS50-Introduction to Computer Science/3. Algorithm.md",
     "Plan for CS-DIY.md",
     "编程入门/CS50-Introduction to Computer Science",
@@ -196,10 +200,6 @@
     "编程入门/MIT-Missing Semester/Resources",
     "编程入门/MIT---Missing Semester/新建文件夹",
     "编程入门/MIT-Missing Semester/3. 编辑器Vim.md",
-    "编程入门/MIT-Missing Semester/2. Shell 工具和脚本.md",
-    "2024-W12.md",
-    "Obsidian Help Document/中文帮助/如何使用/编辑多个笔记.md",
-    "Obsidian Help Document/中文帮助/如何使用/笔记重命名.md",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image.png",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image 9.png",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image 8.png",
