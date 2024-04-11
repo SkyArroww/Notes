@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程入门/CS50-Introduction to Computer Science/7. SQL.md",
+                "file": "面试/游戏客户端开发/面经/3.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程入门/CS50-Introduction to Computer Science/7. SQL.md",
+                "file": "面试/游戏客户端开发/面经/3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程入门/CS50-Introduction to Computer Science/7. SQL.md",
+                "file": "面试/游戏客户端开发/面经/3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bb6032e03d26ee18",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程入门/CS50-Introduction to Computer Science/7. SQL.md"
+                "file": "面试/游戏客户端开发/面经/3.md"
               }
             }
           }
@@ -166,52 +167,52 @@
   },
   "active": "84752aac77d0fd35",
   "lastOpenFiles": [
-    "编程入门/CS50-Introduction to Computer Science/6.5 Artificial Intelligence.md",
+    "面试/游戏客户端开发/面经/2.md",
+    "面试/游戏客户端开发/面经/1.md",
+    "面试/游戏客户端开发/面经/3.md",
+    "面试/汇总.md",
+    "Resources/Pasted image 20240411170439.png",
+    "Resources/Pasted image 20240411170505.png",
+    "Resources/Pasted image 20240411170454.png",
+    "面试/游戏客户端开发/编程概念/virtual与override.md",
+    "面试/游戏客户端开发/面经",
+    "面试/游戏客户端开发/编程概念/Unity 协程.md",
+    "面试/游戏客户端开发/编程概念/垃圾回收.md",
+    "面试/游戏客户端开发/编程概念/TCP三握四挥.md",
+    "面试/游戏客户端开发/编程概念/帧同步与状态同步.md",
+    "面试/游戏客户端开发/编程概念/Unity 生命周期函数.md",
+    "Resources/Pasted image 20240411162829.png",
+    "面试/游戏客户端开发/编程概念/渲染管线流程.md",
+    "面试/游戏客户端开发/编程概念/结构体与类.md",
+    "面试/游戏客户端开发/编程概念/设计模式.md",
+    "面试/游戏客户端开发/编程概念/装箱和拆箱.md",
+    "面试/游戏客户端开发/编程概念/值类型和引用类型.md",
+    "面试/游戏客户端开发/编程概念/封装、继承、多态和抽象.md",
+    "面试/游戏客户端开发/Unity",
+    "面试/游戏客户端开发/新建文件夹",
+    "面试/游戏客户端开发/算法和数据结构",
+    "面试/游戏客户端开发/编程概念",
+    "面试/游戏客户端开发/C# 闭包.md",
+    "面试/游戏客户端开发/C# 与 Lua/C# for each 与 for.md",
+    "面试/游戏客户端开发/C# 与 Lua/C# Unsafe Code.md",
+    "面试/游戏客户端开发/C# 与 Lua/Unity性能优化 C#篇.pdf",
+    "面试/游戏客户端开发/C# 与 Lua/Unity性能优化 Lua篇.pdf",
+    "面试/游戏客户端开发/C# 与 Lua/C# 闭包.md",
+    "面试/游戏客户端开发/C# 与 Lua",
+    "面试/游戏客户端开发/C# for each 与 for.md",
+    "面试/游戏客户端开发/C# Unsafe Code.md",
+    "面试/游戏客户端开发/Unity性能优化 C#篇.pdf",
+    "面试/游戏客户端开发/Unity性能优化 Lua篇.pdf",
     "编程入门/CS50-Introduction to Computer Science/7. SQL.md",
-    "编程入门/CS50-Introduction to Computer Science/6. Python.md",
-    "编程入门/CS50-Introduction to Computer Science/5. Data Structures.md",
-    "编程入门/CS50-Introduction to Computer Science/4. Memory.md",
-    "编程入门/CS50-Introduction to Computer Science/0. Scratch.md",
-    "编程入门/CS50-Introduction to Computer Science/2. Arrays.md",
-    "编程入门/CS50-Introduction to Computer Science/1. C.md",
-    "编程入门/CS50-Introduction to Computer Science/3. Algorithm.md",
-    "Plan for CS-DIY.md",
-    "编程入门/CS50-Introduction to Computer Science",
-    "编程入门/MIT-Missing Semester/4. 数据整理.md",
-    "Obsidian Help Document/英文帮助/Release notes/v0.5.1.md",
-    "编程入门/MIT-Missing Semester/0. 课程概览.md",
-    "Obsidian Help Document/中文帮助/插件设置/搜索.md",
-    "编程入门/MIT-Missing Semester/6. 版本控制(Git).md",
-    "编程入门/MIT-Missing Semester/7. 调试及性能分析.md",
-    "编程入门/MIT-Missing Semester/1. Shell.md",
-    "Test/Test.md",
-    "Test/Welcome.md",
+    "面试/游戏客户端开发.md",
     "未命名.md",
-    "README.md",
-    "编程入门/MIT-Missing Semester/10. 杂项.md",
-    "编程入门/MIT-Missing Semester/9. 安全和密码学.md",
-    "编程入门/MIT-Missing Semester/8. 元编程.md",
+    "编程入门/CS50-Introduction to Computer Science/6.5 Artificial Intelligence.md",
     "Resources/寄.png",
-    "Resources",
     "未命名.canvas",
-    "编程入门/MIT-Missing Semester/5. 命令行环境.md",
-    "编程入门/MIT-Missing Semester/Resources/Pro Git.pdf",
-    "编程入门/MIT---Missing Semester/Resources/progit.pdf",
-    "编程入门/MIT-Missing Semester/Resources",
-    "编程入门/MIT---Missing Semester/新建文件夹",
-    "编程入门/MIT-Missing Semester/3. 编辑器Vim.md",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image.png",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image 9.png",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image 8.png",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image 7.png",
-    "Obsidian Help Document/英文帮助/Attachments/Pasted image 6.png",
-    "Obsidian Help Document/英文帮助/Attachments/Pasted image 5.png",
-    "Obsidian Help Document/英文帮助/Attachments/Pasted image 4.png",
-    "Obsidian Help Document/英文帮助/Attachments/Pasted image 3.png",
-    "Obsidian Help Document/英文帮助/Attachments/Pasted image 19.png",
-    "Obsidian Help Document/英文帮助/Attachments/Excerpt from Mother of All Demos (1968).ogg",
-    "Obsidian Help Document/英文帮助/Release notes",
-    "Obsidian Help Document/英文帮助/Plugins",
-    "Obsidian Help Document/英文帮助/How to"
+    "Obsidian Help Document/英文帮助/Attachments/Pasted image 6.png"
   ]
 }
