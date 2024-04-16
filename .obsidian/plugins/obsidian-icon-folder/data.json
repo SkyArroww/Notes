@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGraduationCap",
       "FasC",
       "TiCat",
       "RiCodeLine",
-      "FabReadme",
-      "FasList"
+      "FabReadme"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,6 @@
   "Plan for CS-DIY.md": "FasList",
   "README.md": "FabReadme",
   "编程入门/MIT-Missing Semester": "OcCommandPalette16",
-  "编程入门/CS50-Introduction to Computer Science": "RiCodeLine"
+  "编程入门/CS50-Introduction to Computer Science": "RiCodeLine",
+  "面试": "LiGraduationCap"
 }

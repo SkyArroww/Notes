@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/游戏客户端开发/面经/3.md",
+                "file": "面试/游戏客户端开发/面经/Me.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/游戏客户端开发/面经/3.md",
+                "file": "面试/游戏客户端开发/面经/Me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/游戏客户端开发/面经/3.md",
+                "file": "面试/游戏客户端开发/面经/Me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bb6032e03d26ee18",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/游戏客户端开发/面经/3.md"
+                "file": "面试/游戏客户端开发/面经/Me.md"
               }
             }
           }
@@ -151,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 484
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,9 +166,13 @@
   },
   "active": "84752aac77d0fd35",
   "lastOpenFiles": [
-    "面试/游戏客户端开发/面经/2.md",
-    "面试/游戏客户端开发/面经/1.md",
     "面试/游戏客户端开发/面经/3.md",
+    "面试/游戏客户端开发/面经/Me.md",
+    "面试/游戏客户端开发/面经/1.md",
+    "编程入门/CS50-Introduction to Computer Science/8. HTML, CSS, JavaScript.md",
+    "编程入门/CS50-Introduction to Computer Science/7. SQL.md",
+    "面试/游戏客户端开发/面经/2.md",
+    "未命名.md",
     "面试/汇总.md",
     "Resources/Pasted image 20240411170439.png",
     "Resources/Pasted image 20240411170505.png",
@@ -203,10 +206,6 @@
     "面试/游戏客户端开发/C# Unsafe Code.md",
     "面试/游戏客户端开发/Unity性能优化 C#篇.pdf",
     "面试/游戏客户端开发/Unity性能优化 Lua篇.pdf",
-    "编程入门/CS50-Introduction to Computer Science/7. SQL.md",
-    "面试/游戏客户端开发.md",
-    "未命名.md",
-    "编程入门/CS50-Introduction to Computer Science/6.5 Artificial Intelligence.md",
     "Resources/寄.png",
     "未命名.canvas",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image.png",
