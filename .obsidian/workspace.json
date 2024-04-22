@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/游戏客户端开发/面经/Me.md",
+                "file": "编程入门/CS50-Introduction to Computer Science/10. Cybersecurity.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/游戏客户端开发/面经/Me.md",
+                "file": "编程入门/CS50-Introduction to Computer Science/10. Cybersecurity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/游戏客户端开发/面经/Me.md",
+                "file": "编程入门/CS50-Introduction to Computer Science/10. Cybersecurity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/游戏客户端开发/面经/Me.md"
+                "file": "编程入门/CS50-Introduction to Computer Science/10. Cybersecurity.md"
               }
             }
           }
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484
+    "width": 293
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,12 +166,15 @@
   },
   "active": "84752aac77d0fd35",
   "lastOpenFiles": [
+    "编程入门/CS50-Introduction to Computer Science/9. Flask.md",
+    "编程入门/CS50-Introduction to Computer Science/10. Cybersecurity.md",
+    "面试/HR面-注意事项.md",
     "面试/游戏客户端开发/面经/3.md",
+    "面试/游戏客户端开发/面经/2.md",
+    "编程入门/CS50-Introduction to Computer Science/8. HTML, CSS, JavaScript.md",
     "面试/游戏客户端开发/面经/Me.md",
     "面试/游戏客户端开发/面经/1.md",
-    "编程入门/CS50-Introduction to Computer Science/8. HTML, CSS, JavaScript.md",
     "编程入门/CS50-Introduction to Computer Science/7. SQL.md",
-    "面试/游戏客户端开发/面经/2.md",
     "未命名.md",
     "面试/汇总.md",
     "Resources/Pasted image 20240411170439.png",
@@ -200,10 +203,7 @@
     "面试/游戏客户端开发/C# 与 Lua/C# Unsafe Code.md",
     "面试/游戏客户端开发/C# 与 Lua/Unity性能优化 C#篇.pdf",
     "面试/游戏客户端开发/C# 与 Lua/Unity性能优化 Lua篇.pdf",
-    "面试/游戏客户端开发/C# 与 Lua/C# 闭包.md",
     "面试/游戏客户端开发/C# 与 Lua",
-    "面试/游戏客户端开发/C# for each 与 for.md",
-    "面试/游戏客户端开发/C# Unsafe Code.md",
     "面试/游戏客户端开发/Unity性能优化 C#篇.pdf",
     "面试/游戏客户端开发/Unity性能优化 Lua篇.pdf",
     "Resources/寄.png",
