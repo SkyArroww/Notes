@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "论文阅读/SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf",
-                "page": 1,
-                "left": 13,
-                "top": 601,
-                "zoom": 1.1
+                "page": 9,
+                "left": 175,
+                "top": 445,
+                "zoom": 1.5
               },
               "icon": "lucide-file-text",
               "title": "SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction"
@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文阅读/单图输入生成可动画驱动角色相关论文阅读.md",
+                "file": "论文阅读/SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "单图输入生成可动画驱动角色相关论文阅读"
+              "title": "SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction"
             }
           }
         ]
@@ -214,7 +214,7 @@
   "active": "9c62d63a6571425c",
   "lastOpenFiles": [
     "论文阅读/SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf",
-    "论文阅读/单图输入生成可动画驱动角色相关论文阅读.md",
+    "论文阅读/SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.md",
     "论文阅读/SiTH - Single-view Textured Human Reconstruction with Image-Conditioned Diffusion.pdf",
     "面试/游戏客户端开发/面经/腾讯IEG 天美游戏客户端开发.md",
     "论文阅读/V3D - Video Diffusion Models are Effective 3D Generators.pdf",
