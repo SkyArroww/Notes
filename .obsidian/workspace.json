@@ -6,17 +6,43 @@
       {
         "id": "38d9c1e48e101552",
         "type": "tabs",
+        "dimension": 55.168269230769226,
         "children": [
           {
-            "id": "84752aac77d0fd35",
+            "id": "4f134b59b160e24d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "论文阅读/SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf",
+                "page": 1,
+                "left": 13,
+                "top": 601,
+                "zoom": 1.1
+              },
+              "icon": "lucide-file-text",
+              "title": "SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4204b8e2f8d919cb",
+        "type": "tabs",
+        "dimension": 44.831730769230774,
+        "children": [
+          {
+            "id": "9c62d63a6571425c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/游戏客户端开发/面经/腾讯IEG 天美游戏客户端开发.md",
+                "file": "论文阅读/单图输入生成可动画驱动角色相关论文阅读.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "单图输入生成可动画驱动角色相关论文阅读"
             }
           }
         ]
@@ -40,7 +66,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -48,7 +76,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -66,7 +96,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -75,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/游戏客户端开发/面经/腾讯IEG 天美游戏客户端开发.md",
+                "file": "论文阅读/单图输入生成可动画驱动角色相关论文阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "单图输入生成可动画驱动角色相关论文阅读 的反向链接列表"
             }
           },
           {
@@ -92,10 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/游戏客户端开发/面经/腾讯IEG 天美游戏客户端开发.md",
+                "file": "论文阅读/单图输入生成可动画驱动角色相关论文阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "单图输入生成可动画驱动角色相关论文阅读 的出链列表"
             }
           },
           {
@@ -110,14 +146,17 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bb6032e03d26ee18",
@@ -132,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -141,8 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/游戏客户端开发/面经/腾讯IEG 天美游戏客户端开发.md"
-              }
+                "file": "论文阅读/单图输入生成可动画驱动角色相关论文阅读.md"
+              },
+              "icon": "lucide-list",
+              "title": "单图输入生成可动画驱动角色相关论文阅读 的大纲"
             }
           }
         ],
@@ -150,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293
+    "width": 293,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,13 +205,24 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "84752aac77d0fd35",
+  "active": "9c62d63a6571425c",
   "lastOpenFiles": [
-    "面试/游戏客户端开发/面经/3.md",
+    "论文阅读/SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf",
+    "论文阅读/单图输入生成可动画驱动角色相关论文阅读.md",
+    "论文阅读/SiTH - Single-view Textured Human Reconstruction with Image-Conditioned Diffusion.pdf",
     "面试/游戏客户端开发/面经/腾讯IEG 天美游戏客户端开发.md",
+    "论文阅读/V3D - Video Diffusion Models are Effective 3D Generators.pdf",
+    "论文阅读/CharacterGen - Efficient 3D Character Generation from Single Images.pdf",
+    "论文阅读/Edify 3D - Scalable High-Quality 3D Asset Generation.pdf",
+    "论文阅读/Semantic Human Mesh Reconstruction with Textures.pdf",
+    "论文阅读",
+    "面试/游戏客户端开发/面经/3.md",
     "面试/游戏客户端开发/面经/2.md",
     "编程入门/CS50-Introduction to Computer Science/10. Cybersecurity.md",
     "编程入门/CS50-Introduction to Computer Science/9. Flask.md",
@@ -196,16 +251,7 @@
     "面试/游戏客户端开发/编程概念/封装、继承、多态和抽象.md",
     "面试/游戏客户端开发/Unity",
     "面试/游戏客户端开发/新建文件夹",
-    "面试/游戏客户端开发/算法和数据结构",
-    "面试/游戏客户端开发/编程概念",
     "面试/游戏客户端开发/C# 闭包.md",
-    "面试/游戏客户端开发/C# 与 Lua/C# for each 与 for.md",
-    "面试/游戏客户端开发/C# 与 Lua/C# Unsafe Code.md",
-    "面试/游戏客户端开发/C# 与 Lua/Unity性能优化 C#篇.pdf",
-    "面试/游戏客户端开发/C# 与 Lua/Unity性能优化 Lua篇.pdf",
-    "面试/游戏客户端开发/C# 与 Lua",
-    "面试/游戏客户端开发/Unity性能优化 C#篇.pdf",
-    "面试/游戏客户端开发/Unity性能优化 Lua篇.pdf",
     "Resources/寄.png",
     "未命名.canvas",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image.png",
