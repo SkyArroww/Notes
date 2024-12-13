@@ -131,3 +131,25 @@ $$
 
 #### 3.3.2 一致性编辑 [[SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf#page=6&selection=469,0,469,18&color=yellow|Consistent Editing]]
 为了在不同视图之间实现一致的图像编辑，我们采用了受 [Tokenflow: Consistent diffusion features for consistent video editing] 启发的方法。 这就需要在不同渲染视图的扩散特征之间实现一致性。 我们对输入图像 $I$ 进行 DDIM 反转，提取所有图层的扩散标记。 选择一组关键视图进行联合编辑，以确保生成的特征具有统一的外观。 然后使用最近邻方法将这些特征传播到所有视图，以保持它们之间的一致性。 有关更详细的程序见解和具体机制，请参阅 SupMat。
+
+## 4. 实验 [[SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf#page=6&selection=570,3,570,13&color=yellow|Experiment]]
+数据集：
+	我们在 THuman2.0 数据集上训练我们的模型，该数据集由 526 个人体扫描数据组成，其中 490 个用于训练，15 个用于验证，21 个用于测试。 在训练过程中使用了真实原始 SMPL-X 模型，在推理过程中使用了 PIXIE 。 我们的主要评估是在 CAPE  和 THuman2.0 数据集上进行的。 为了测试模型在不同姿势下的通用性，我们将 CAPE 数据集分为 "CAPE-FP "和 "CAPENFP "两个子集。 有关数据集和实施的更多详情，请参阅 SupMat。
+
+#### 4.1 评估 [[SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf#page=6&selection=587,5,587,15&color=yellow|Evaluation]]
+==评估标准== [[SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf#page=6&selection=589,0,589,7&color=yellow|Metrics]]：
+	我们使用 Chamfer 和 P2S 距离对模型的几何重建质量进行量化评估，并将重建网格体与原始真实网格体进行比较。 我们还测量了两个网格的法线图像之间的 L2 法线误差，通过相对于输入视图在 $\{0\degree,90\degree,180\degree,270\degree\}$ 处旋转摄像头来评估表面细节的一致性。 在纹理质量方面，我们报告了彩色图像的 PSNR，渲染效果与正常图像类似。
+==定量评估== [[SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf#page=6&selection=619,0,619,23&color=yellow|Quantitative Evaluation]] ：
+	在几何评估中，我们的实验使用了 SMPL-X 模型的真实原始数据，来评估使用 "SMPL-X 身体先验 "的方法。 SIFU 在所有指标上都建立了新的标准，尤其是在 THuman2.0 数据集上表现出色，Chamfer 和 P2S 达到了前所未有的 0.6 厘米。 这凸显了 SIFU 在不同场景下精确重建的能力，从我们的侧视条件法中受益匪浅。
+	在纹理重建方面，SIFU 的 PSNR 比 PIFu 高出 22.2%，显示出其卓越的纹理质量。
+==与 SMPL-X 的鲁棒性== [[SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf#page=7&selection=35,0,35,20&color=yellow|Robustness to SMPL-X]] ：
+	在现实世界中，经常会遇到缺乏精确 SMPL-X 参数的随机图像。 处理 SMPL-X 估计误差的能力对于高质量重建至关重要。 我们通过在原始真实 SMPL-X 模型的姿态和形状参数中引入噪声（按 0.05 的比例缩放）来评估我们模型的适应能力。SIFU 具有显著的鲁棒性，表明其具有很强的实用性。
+#### 4.2 消融研究 [[SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf#page=7&selection=56,5,56,21&color=yellow|Ablation Studies]]
+==不同骨干网分析== [[SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf#page=7&selection=58,0,58,27&color=yellow|Different Backbone Analysis]]：
+	为了验证侧视解耦Transformer的有效性，我们尝试了各种替代结构。 根据结果，在没有 SMPL-X 指导的情况下，自注意力和可学习嵌入会导致严重错误，即使是具有类似能力的卷积网络也无法有效地将输入图像与 SMPL-X 条件视图连接起来。 这项消融研究清楚地表明，我们的Transformer架构非常出色，能够提供卓越的重建结果。
+==不同特征平面分析== [[SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf#page=7&selection=75,0,75,32&color=yellow|Different Feature Plane Analysis]]：
+	我们发现在评估增加不同数量的侧视特征平面的效果后，仅增加左侧或右侧侧视平面就能显著提高精度，减少 Chamfer 约 0.2 厘米。 包含所有四个平面的误差降低幅度较小，约为 0.03 厘米。 考虑到更多平面带来的微小改进和增加的复杂性，我们选择了四平面的平衡方法。
+==查询策略的有效性== [[SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf#page=7&selection=207,0,207,23&color=yellow|Query Strategy Efficacy]]：
+	我们将混合先验融合策略与像素对齐法进行了比较。 在所有评估指标上，混合方法始终优于传统方法。
+==不同的纹理细化== [[SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf#page=7&selection=214,0,214,29&color=yellow|Different Texture Refinement.]]：
+	将我们的方法与 TEXTure  和 DreamGaussian （使用 Zero123 XL ）等基于扩散的方法进行比较，并与我们未细化的模型进行比较，结果显示，我们的三维一致纹理细化方法在纹理质量和一致性方面都非常出色。
