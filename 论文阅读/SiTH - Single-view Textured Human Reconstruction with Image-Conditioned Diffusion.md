@@ -99,3 +99,13 @@ $$
 注意，$\nabla_\mathbf{x}$ 表示计算 $\mathbf{x}$ 点局部法线的数值有限差分，$\lambda_n$ 是超参数。
 
 在推理过程中，我们使用输入图像 $I^F$ 和之前获得的后视图像 $\tilde{I}^B$ 来重建 3D 网格和纹理。 首先，我们将两幅图像与估计的人体网格 $\mathcal{M}$ 对齐，以确保图像特征可以围绕三维锚点正确查询。 我们采用类似于 SMPLify [7] 的策略来优化带有轮廓和二维关节误差的人体网格的比例和偏移量。 最后，在密集体素网格内查询 SDF 和 RGB 值，执行**行进立方体算法** [43]。
+
+## 4. 实验 [[SiTH - Single-view Textured Human Reconstruction with Image-Conditioned Diffusion.pdf#page=6&selection=307,3,307,14&color=yellow|Experiments]]
+### 4.1 实验准备 [[SiTH - Single-view Textured Human Reconstruction with Image-Conditioned Diffusion.pdf#page=6&selection=309,5,309,23&color=yellow|Experimental Setup]]
+#### 4.1.1 数据集 [[SiTH - Single-view Textured Human Reconstruction with Image-Conditioned Diffusion.pdf#page=6&selection=311,0,311,6&color=yellow|Datase]]
+以前的工作依赖于来自 RenderPeople 等商业数据集的训练数据[1]。 虽然这些数据集提供了高质量的纹理网格体，但由于可访问性有限，它们也限制了可重复性。 为了进行公平比较，我们效仿 ICON [73]，在公共 3D 数据集 THuman2.0 [75] 上训练我们的方法，并使用 CAPE [45] 数据集进行评估。 然而，由于 CAPE 数据集的低分辨率原始真实网格体和图像渲染缺陷，我们在评估中发现了潜在的偏差。 因此，我们进一步创建了一个新的基准，在质量更高的 3D 人类数据集 CustomHumans [22] 上对基线进行评估。 下面，我们将对实验中使用的数据集进行总结：
+* **THuman2.0**[75]包含约 500 张人体扫描图像，其中人体穿着 150 种不同的服装，姿态各异。 我们使用这些 3D 扫描作为训练数据。
+* **CAPE** [45] 包含 15 个穿着 8 种紧身服装的受试者。 测试集由 ICON 提供，包含 100 个网格。 我们使用 CAPE 进行定量评估。
+* **CustomHumans**[22]包含 600 份质量更高的扫描数据，对象为 80 名穿着 120 种不同服装、摆着不同姿势的人。 我们选择了 60 名受试者进行所有定量实验、用户研究和消融研究。
+### 4.1.2 评估规程 [[SiTH - Single-view Textured Human Reconstruction with Image-Conditioned Diffusion.pdf#page=6&selection=354,0,354,19&color=yellow|Evaluation protocol]]
+我们遵循 OccNet [46] 和 ICON [73] 中的评估协议，对生成的网格计算 3D 指标倒角距离 (CD)、法线一致性 (NC) 和 fScore [65]。 为了评估重建的网格纹理，我们报告了正面和背面纹理渲染的 LPIPS [78]。 在用户研究中，30 位参与者对四种不同方法获得的网格进行了排名。 我们报告了从 1（最佳）到 4（最差）的平均排名。
