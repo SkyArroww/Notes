@@ -4,43 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "dccca2ff5225e454",
+        "id": "dae4ef6b95437b70",
         "type": "tabs",
         "children": [
           {
-            "id": "43ea763847082e1a",
+            "id": "284d593c7ab2bdd4",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "论文阅读/Semantic Human Mesh Reconstruction with Textures.pdf",
-                "page": 1,
-                "left": -17,
-                "top": 796,
-                "zoom": 0.928921568627451
+                "file": "论文阅读/前置知识/SMPL - A Skinned Multi-Person Linear Model.pdf",
+                "page": 4,
+                "left": -4,
+                "top": 761,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
-              "title": "Semantic Human Mesh Reconstruction with Textures"
+              "title": "SMPL - A Skinned Multi-Person Linear Model"
             }
           }
         ]
       },
       {
-        "id": "6861cca086d62156",
+        "id": "3bcb6f4e6a8cb678",
         "type": "tabs",
         "children": [
           {
-            "id": "8f3883738f4de685",
+            "id": "35390d2ac365b8f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文阅读/SHERT - Semantic Human Mesh Reconstruction with Textures.md",
+                "file": "论文阅读/前置知识/SMPL - A Skinned Multi-Person Linear Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SHERT - Semantic Human Mesh Reconstruction with Textures"
+              "title": "SMPL - A Skinned Multi-Person Linear Model"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文阅读/SHERT - Semantic Human Mesh Reconstruction with Textures.md",
+                "file": "论文阅读/前置知识/SMPL - A Skinned Multi-Person Linear Model.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "SHERT - Semantic Human Mesh Reconstruction with Textures 的反向链接列表"
+              "title": "SMPL - A Skinned Multi-Person Linear Model 的反向链接列表"
             }
           },
           {
@@ -210,10 +210,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8f3883738f4de685",
+  "active": "284d593c7ab2bdd4",
   "lastOpenFiles": [
-    "论文阅读/Semantic Human Mesh Reconstruction with Textures.pdf",
+    "论文阅读/前置知识/SMPL - A Skinned Multi-Person Linear Model.md",
+    "论文阅读/前置知识/SMPL - A Skinned Multi-Person Linear Model.pdf",
     "论文阅读/SHERT - Semantic Human Mesh Reconstruction with Textures.md",
+    "论文阅读/前置知识/SMPL-X - 3D Hands, Face, and Body from a Single Image.pdf",
+    "论文阅读/前置知识",
+    "论文阅读/新建文件夹",
+    "论文阅读/Semantic Human Mesh Reconstruction with Textures.pdf",
     "论文阅读/任务描述、大致思路及参考资料.md",
     "论文阅读/V3D - Video Diffusion Models are Effective 3D Generators.pdf",
     "论文阅读/SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.pdf",
@@ -225,7 +230,6 @@
     "面试/游戏客户端开发/面经/腾讯IEG 天美游戏客户端开发.md",
     "论文阅读/CharacterGen - Efficient 3D Character Generation from Single Images.pdf",
     "论文阅读/Edify 3D - Scalable High-Quality 3D Asset Generation.pdf",
-    "论文阅读",
     "面试/游戏客户端开发/面经/3.md",
     "面试/游戏客户端开发/面经/2.md",
     "编程入门/CS50-Introduction to Computer Science/10. Cybersecurity.md",
@@ -239,7 +243,6 @@
     "Resources/Pasted image 20240411170505.png",
     "Resources/Pasted image 20240411170454.png",
     "面试/游戏客户端开发/编程概念/virtual与override.md",
-    "面试/游戏客户端开发/面经",
     "面试/游戏客户端开发/编程概念/Unity 协程.md",
     "面试/游戏客户端开发/编程概念/垃圾回收.md",
     "面试/游戏客户端开发/编程概念/TCP三握四挥.md",
@@ -248,9 +251,6 @@
     "Resources/Pasted image 20240411162829.png",
     "面试/游戏客户端开发/编程概念/渲染管线流程.md",
     "面试/游戏客户端开发/编程概念/结构体与类.md",
-    "面试/游戏客户端开发/编程概念/设计模式.md",
-    "面试/游戏客户端开发/Unity",
-    "面试/游戏客户端开发/新建文件夹",
     "Resources/寄.png",
     "未命名.canvas",
     "Obsidian Help Document/英文帮助/Attachments/Pasted image.png",
