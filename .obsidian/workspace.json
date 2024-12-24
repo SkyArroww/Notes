@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/生成式AI/微调/相关微调算法与框架.md",
+                "file": "面试/生成式AI/微调/LoRA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "相关微调算法与框架"
+              "title": "LoRA"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/生成式AI/微调/相关微调算法与框架.md",
+                "file": "面试/生成式AI/微调/LoRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "相关微调算法与框架 的反向链接列表"
+              "title": "LoRA 的反向链接列表"
             }
           },
           {
@@ -189,8 +189,19 @@
   },
   "active": "39de9f066d6417a8",
   "lastOpenFiles": [
-    "面试/生成式AI/生成/Stable Diffusion.md",
+    "面试/生成式AI/微调/9.png",
+    "面试/生成式AI/微调/8.png",
+    "面试/生成式AI/微调/7.png",
+    "面试/生成式AI/微调/6.png",
+    "面试/生成式AI/微调/5.png",
+    "面试/生成式AI/微调/4.png",
+    "面试/生成式AI/微调/3.png",
+    "面试/生成式AI/微调/2.png",
+    "123.md",
+    "面试/生成式AI/微调/LoRA.md",
     "面试/生成式AI/微调/相关微调算法与框架.md",
+    "面试/生成式AI/微调/1.png",
+    "面试/生成式AI/生成/Stable Diffusion.md",
     "面试/生成式AI/大模型框架/相关大模型框架.md",
     "面试/生成式AI/微调",
     "面试/生成式AI/生成",
@@ -221,20 +232,9 @@
     "面试/汇总.md",
     "Resources/Pasted image 20240411170439.png",
     "Resources/Pasted image 20240411170505.png",
-    "Resources/Pasted image 20240411170454.png",
     "面试/游戏客户端开发/编程概念/virtual与override.md",
     "面试/游戏客户端开发/编程概念/Unity 协程.md",
     "面试/游戏客户端开发/编程概念/垃圾回收.md",
-    "面试/游戏客户端开发/编程概念/TCP三握四挥.md",
-    "面试/游戏客户端开发/编程概念/帧同步与状态同步.md",
-    "面试/游戏客户端开发/编程概念/Unity 生命周期函数.md",
-    "Resources/Pasted image 20240411162829.png",
-    "Resources/寄.png",
-    "未命名.canvas",
-    "Obsidian Help Document/英文帮助/Attachments/Pasted image.png",
-    "Obsidian Help Document/英文帮助/Attachments/Pasted image 9.png",
-    "Obsidian Help Document/英文帮助/Attachments/Pasted image 8.png",
-    "Obsidian Help Document/英文帮助/Attachments/Pasted image 7.png",
-    "Obsidian Help Document/英文帮助/Attachments/Pasted image 6.png"
+    "未命名.canvas"
   ]
 }
