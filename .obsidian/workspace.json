@@ -132,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 324
   },
   "right": {
     "id": "bb6032e03d26ee18",
@@ -190,8 +190,8 @@
   "active": "39de9f066d6417a8",
   "lastOpenFiles": [
     "面试/生成式AI/生成/1.png",
-    "面试/生成式AI/微调/相关微调算法与框架.md",
     "面试/生成式AI/微调/LoRA.md",
+    "面试/生成式AI/微调/相关微调算法与框架.md",
     "面试/生成式AI/微调/9.png",
     "面试/生成式AI/微调/8.png",
     "面试/生成式AI/微调/7.png",
@@ -231,7 +231,6 @@
     "面试/游戏客户端开发/面经/1.md",
     "编程入门/CS50-Introduction to Computer Science/7. SQL.md",
     "面试/汇总.md",
-    "Resources/Pasted image 20240411170439.png",
     "面试/游戏客户端开发/编程概念/virtual与override.md",
     "面试/游戏客户端开发/编程概念/Unity 协程.md",
     "面试/游戏客户端开发/编程概念/垃圾回收.md",
