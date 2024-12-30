@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/生成式AI/微调/LoRA.md",
+                "file": "论文阅读/前置知识/SMPL - A Skinned Multi-Person Linear Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LoRA"
+              "title": "SMPL - A Skinned Multi-Person Linear Model"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/生成式AI/微调/LoRA.md",
+                "file": "论文阅读/前置知识/SMPL - A Skinned Multi-Person Linear Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "LoRA 的反向链接列表"
+              "title": "SMPL - A Skinned Multi-Person Linear Model 的反向链接列表"
             }
           },
           {
@@ -189,8 +189,11 @@
   },
   "active": "39de9f066d6417a8",
   "lastOpenFiles": [
-    "面试/生成式AI/生成/1.png",
+    "论文阅读/前置知识/SMPL - A Skinned Multi-Person Linear Model.pdf",
+    "论文阅读/前置知识/SMPL - A Skinned Multi-Person Linear Model.md",
+    "论文阅读/Edify 3D - Scalable High-Quality 3D Asset Generation.pdf",
     "面试/生成式AI/微调/LoRA.md",
+    "面试/生成式AI/生成/1.png",
     "面试/生成式AI/微调/相关微调算法与框架.md",
     "面试/生成式AI/微调/9.png",
     "面试/生成式AI/微调/8.png",
@@ -208,15 +211,12 @@
     "面试/生成式AI/生成",
     "面试/生成式AI/大模型框架",
     "面试/生成式AI",
-    "论文阅读/前置知识/SMPL - A Skinned Multi-Person Linear Model.pdf",
-    "论文阅读/前置知识/SMPL - A Skinned Multi-Person Linear Model.md",
     "论文阅读/SHERT - Semantic Human Mesh Reconstruction with Textures.md",
     "论文阅读/前置知识/SMPL-X - 3D Hands, Face, and Body from a Single Image.pdf",
     "论文阅读/前置知识",
     "论文阅读/新建文件夹",
     "论文阅读/Semantic Human Mesh Reconstruction with Textures.pdf",
     "论文阅读/任务描述、大致思路及参考资料.md",
-    "论文阅读/V3D - Video Diffusion Models are Effective 3D Generators.pdf",
     "论文阅读/SiTH - Single-view Textured Human Reconstruction with Image-Conditioned Diffusion.md",
     "论文阅读/SIFU - Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction.md",
     "Plan for CS-DIY.md",
